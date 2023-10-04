@@ -33,7 +33,6 @@ public class Homework {
         System.out.println("x + y = " + result6);
 
 
-
         var friend = 19;
         System.out.println(friend);
 
