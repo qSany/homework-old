@@ -52,6 +52,7 @@ public class Homework {
         System.out.println("Общая масса двух бойцов " + massa + " кг ");
 
 
+
         var boks3 = 82.7;
         var boks4 = 78.2;
         var massa2 = boks3 - boks4;
